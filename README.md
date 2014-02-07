@@ -9,11 +9,11 @@ autoproxy_whitelist
 
 订阅地址
 
-https://raw.github.com/wwqgtxx/autoproxy_whitelist/master/whitelist-base64.txt
+https://raw.github.com/autoproxy-whitelist/autoproxy-whitelist/master/whitelist-base64.txt
 
 当然，你也可以查看原始的文件内容
 
-https://github.com/wwqgtxx/autoproxy_whitelist/blob/master/whitelist.txt
+https://github.com/autoproxy-whitelist/autoproxy-whitelist/blob/master/whitelist.txt
 
 ===================
 wwqgtxx
