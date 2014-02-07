@@ -2,8 +2,10 @@
 ! Expires: 6h
 ! GFW_Whitelist
 ! Base on https://github.com/pentie/gfw_whitelist
-! Author : wwqgtxx
-! HomePage : https://github.com/wwqgtxx/autoproxy_whitelist
+! HomePage : https://github.com/autoproxy_whitelist/autoproxy_whitelist
+! Contributor:
+!      Wang Wei Qiang    <wwqgtxx@gmail.com>
+!      Phus Lu           <phus.lu@gmail.com>
 
 @@||cn
 @@||doctorcom.com
