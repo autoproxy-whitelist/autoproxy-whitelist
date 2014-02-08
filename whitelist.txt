@@ -84,7 +84,7 @@
 @@||serving-sys.com
 @@||legolas-media.com
 @@||harrenmedianetwork.com
-@@||qiniucdn.com"
+@@||qiniucdn.com
 @@||renren.com
 @@||sina.com
 @@||iask.com
@@ -109,7 +109,7 @@
 @@||pengyou.com
 @@||360buyimg.com
 @@||51buy.com
-@@||icson.com"
+@@||icson.com
 @@||07073.com
 @@||0x110.com
 @@||10010.com
@@ -767,7 +767,7 @@
 @@||zoosnet.net
 @@||zqgame.com
 @@||ztgame.com
-@@||zx915.com"
+@@||zx915.com
 @@||baidu.com
 @@||qq.com
 @@||taobao.com
