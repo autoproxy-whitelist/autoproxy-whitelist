@@ -11,6 +11,8 @@ autoproxy_whitelist
 
 https://raw.github.com/autoproxy-whitelist/autoproxy-whitelist/master/whitelist-base64.txt
 
+ * 说明，此地址只能用于autoproxy的全局代理模式，在自动代理模式下不会生效的，请各位务必注意
+
 当然，你也可以查看原始的文件内容
 
 https://github.com/autoproxy-whitelist/autoproxy-whitelist/blob/master/whitelist.txt
