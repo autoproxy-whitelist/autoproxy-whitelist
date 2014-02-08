@@ -9,7 +9,7 @@ autoproxy_whitelist
 
 订阅地址
 
-https://raw.github.com/autoproxy-whitelist/autoproxy-whitelist/master/whitelist-base64.txt
+http://autoproxy-whitelist.github.io/autoproxy-whitelist/whitelist-base64.txt
 
  * 说明，此地址只能用于autoproxy的全局代理模式，在自动代理模式下不会生效的，请各位务必注意
 
