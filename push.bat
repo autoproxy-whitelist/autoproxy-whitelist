@@ -8,4 +8,5 @@ git add --all .
 git add -u
 git commit -m"bat"
 git push
+git push master:gh-pages
 pause
