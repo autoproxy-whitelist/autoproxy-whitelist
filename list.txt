@@ -195,7 +195,7 @@
 @@||cntv.net
 @@||cnwest.com
 @@||cnxad.com
-@@||cnzz.com
+@@||cnzz.coM
 @@||cocoren.com
 @@||compete.com
 @@||comsenz.com
@@ -218,6 +218,7 @@
 @@||didatuan.com
 @@||dipan.com
 @@||discuz.net
+@@||dmhy.org
 @@||doc88.com
 @@||docin.com
 @@||doctorcom.com
@@ -318,7 +319,7 @@
 @@||ijinshan.com
 @@||iloveyouxi.com
 @@||im286.com
-@@||images-amazon.com
+@@||images-amazon.com
 @@||images-cn.ssl-images-amazon.com
 @@||imanhua.com
 @@||img-space.com
@@ -467,6 +468,7 @@
 @@||phpwind.net
 @@||pingan.com
 @@||pixlr.com
+@@||popgo.org
 @@||pp.cc
 @@||pplive.com
 @@||ppstream.com
@@ -528,7 +530,6 @@
 @@||soso.com
 @@||soufun.com
 @@||soufunimg.com
-@@||sourceforge.net
 @@||stackoverflow.com
 @@||staticsdo.com
 @@||stockstar.com
@@ -581,6 +582,7 @@
 @@||uuu9.com
 @@||uuzu.com
 @@||v.iask.com
+@@||v2ex.com
 @@||vancl.com
 @@||vcimg.com
 @@||verycd.com
@@ -629,6 +631,7 @@
 @@||ydstatic.com
 @@||yesky.com
 @@||yhd.com
+@@||yicai.com
 @@||yieldmanager.com
 @@||yihaodian.com
 @@||yihaodianimg.com
