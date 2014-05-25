@@ -111,6 +111,7 @@
 @@||aizhan.com
 @@||ali213.net
 @@||alibaba.com
+@@||alibench.com
 @@||alicdn.com
 @@||aliexpress.com
 @@||aliimg.com
@@ -139,6 +140,7 @@
 @@||baixing.com
 @@||bankcomm.com
 @@||baomihua.com
+@@||baotuba.com
 @@||bdimg.com
 @@||bdstatic.com
 @@||bendibao.com
@@ -169,6 +171,7 @@
 @@||chdbits.org
 @@||chetx.com
 @@||china.com
+@@||chinaamc.com
 @@||chinabyte.com
 @@||chinahr.com
 @@||chinamobile.com
@@ -261,6 +264,7 @@
 @@||fenzhi.com
 @@||ffdy.cc
 @@||flickr.com
+@@||flydev.cc
 @@||fobshanghai.com
 @@||ftchinese.com
 @@||ftuan.com
@@ -279,6 +283,7 @@
 @@||gfw.io
 @@||ggmm777.com
 @@||go2map.com
+@@||godiy.net
 @@||gongchang.com
 @@||goodbabygroup.com
 @@||google-analytics.com
@@ -376,7 +381,7 @@
 @@||l99.com
 @@||lady8844.com
 @@||lafaso.com
-@@||lampdrive.com
+@@||lampdrive.com
 @@||lashou.com
 @@||lashouimg.com
 @@||legolas-media.com
@@ -495,6 +500,7 @@
 @@||quantserve.com
 @@||qunar.com
 @@||qvbuy.com
+@@||qzxx.com
 @@||rakuten.co.jp
 @@||ranwen.com
 @@||readnovel.com
@@ -582,6 +588,7 @@
 @@||uusee.com
 @@||uuu9.com
 @@||uuzu.com
+@@||uxengine.net
 @@||v.iask.com
 @@||v2ex.com
 @@||vancl.com
